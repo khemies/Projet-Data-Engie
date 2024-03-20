@@ -1,0 +1,45 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.cluster import KMeans
+from yellowbrick.cluster import KElbowVisualizer
+
+# Charger les données depuis le fichier CSV en spécifiant le séparateur
+df = pd.read_csv('Octobre2023.csv', sep=';')
+
+# Fonction pour extraire les heures à partir de la chaîne 'XXhYY'
+def extract_hours(hour_string):
+    try:
+        return float(hour_string.split('h')[0])
+    except:
+        return None
+
+# Appliquer la fonction d'extraction sur la colonne 'Ensoleillement' pour obtenir les heures
+df['Station'] = df['Temperature moy.'].apply(extract_hours)
+
+# Exclure les lignes avec des valeurs manquantes
+df = df.dropna(subset=['Station'])
+
+# Réinitialiser l'index après avoir filtré les données
+df = df.reset_index(drop=True)
+
+# # Exclure la colonne 'Ensoleillement'
+features = df[['Temperature moy.', 'Station']]
+features["Temperature moy."]= features["Temperature moy."].astype("float64")
+
+# Spécifier le nombre de clusters que vous souhaitez
+num_clusters = 3
+
+# Ajouter l'argument `n_init` explicitement pour éviter l'avertissement
+kmeans = KMeans(n_clusters=num_clusters, n_init=10)  # Vous pouvez ajuster la valeur selon vos besoins
+
+# Appliquer l'algorithme K-means
+df['cluster'] = kmeans.fit_predict(features)
+
+model = KMeans()
+visualizer = KElbowVisualizer(model, k=(4,12))
+
+visualizer.fit(features)      
+
+
+print(features)
