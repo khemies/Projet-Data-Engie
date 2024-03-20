@@ -1,0 +1,11 @@
+#Test de clustering combien en choisir 
+from yellowbrick.cluster import InterclusterDistance
+
+#
+# Instantiate the clustering model and visualizer
+model = KMeans(3)
+visualizer = InterclusterDistance(model)
+
+visualizer.fit(features)        # Fit the data to the visualizer
+
+visualizer.show() 
