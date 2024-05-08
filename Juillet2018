@@ -1,0 +1,33 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Charger les données depuis le fichier CSV en spécifiant le séparateur
+df = pd.read_csv('Juillet2018.csv', sep=';')
+
+# Filtrer les données pour inclure uniquement les villes spécifiques
+villes_specifiques = ['59 - Lille Lesquin', '22 - Lannion Servel', '67 - Strasbourg Entzheim', '66 - Perpignan Rivesalte']
+df = df[df['Station'].isin(villes_specifiques)]
+
+# Exclure les lignes avec des valeurs manquantes
+df = df.dropna(subset=['Temperature moy.'])
+
+# Diviser les données en deux parties pour le tracé sur deux sous-graphiques
+df1 = df.iloc[:len(df) // 2]
+df2 = df.iloc[len(df) // 2:]
+
+# Créer une figure et des sous-graphiques
+fig, axes = plt.subplots(1, 2, figsize=(20, 5))
+
+# Tracer les graphiques pour chaque sous-ensemble de données
+df1.plot(x='Station', y='Temperature moy.', kind='bar', ax=axes[0], color='skyblue', edgecolor='black')
+df2.plot(x='Station', y='Temperature moy.', kind='bar', ax=axes[1], color='salmon', edgecolor='black')
+
+# Définir les titres et les étiquettes des axes
+axes[0].set_title('Température moyene en Juillet2018')
+axes[1].set_title('Température moyene en Juillet2018')
+axes[0].set_ylabel('Température moyenne')
+
+# Afficher les graphiques
+plt.tight_layout()
+plt.show()
