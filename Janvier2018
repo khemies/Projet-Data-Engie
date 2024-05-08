@@ -24,8 +24,8 @@ df1.plot(x='Station', y='Temperature moy.', kind='bar', ax=axes[0], color='skybl
 df2.plot(x='Station', y='Temperature moy.', kind='bar', ax=axes[1], color='salmon', edgecolor='black')
 
 # Définir les titres et les étiquettes des axes
-axes[0].set_title('Première partie des villes')
-axes[1].set_title('Deuxième partie des villes')
+axes[0].set_title('Température moyene en Janvier2018')
+axes[1].set_title('Température moyene en Janvier2018')
 axes[0].set_ylabel('Température moyenne')
 
 # Afficher les graphiques
