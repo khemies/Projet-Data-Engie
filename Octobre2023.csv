@@ -1,0 +1,154 @@
+Station;Temperature mini;Temperature maxi;Temperature mini moy.;Temperature maxi moy.;Temperature moy.;Precipitations;Ensoleillement;
+01 - Ambérieu;3.2;29.9;0.0;0.0;0.0;232.1;166h00
+02 - Saint-Quentin Roupy;1.2;26.2;0.0;0.0;0.0;87.3;141h00
+03 - Vichy Charmeil;1.7;31.1;0.0;0.0;0.0;91.6;172h00
+04 - St-Auban-sur-Durance Château-Arnoux;5.4;29.9;0.0;0.0;0.0;91.4;196h00
+05 - Embrun;3.2;27.5;0.0;0.0;0.0;151.1;-
+06 - Cannes Mandelieu;9.3;30.4;0.0;0.0;0.0;89.1;-
+06 - Nice Côte D'Azur;12.3;28.6;0.0;0.0;0.0;77.9;208h00
+07 - Aubenas  Lanas;4.5;31.2;0.0;0.0;0.0;285.3;-
+08 - Charleville Mézières;-1.9;24.9;0.0;0.0;0.0;144.2;107h00
+09 - Saint-Girons Antichan;4.1;33.7;0.0;0.0;0.0;78.4;162h00
+10 - Troyes Barberey;1.0;30.2;0.0;0.0;0.0;89.9;159h00
+11 - Carcassonne Salvaza;6.3;31.9;0.0;0.0;0.0;16.8;183h00
+11 - Leucate-Plage;11.3;29.2;0.0;0.0;0.0;22.7;-
+12 - Millau;4.5;29.8;0.0;0.0;0.0;74.1;148h00
+12 - Rodez Marcillac;0.9;30.9;0.0;0.0;0.0;69.0;174h00
+13 - Istres Le Tube (base aérienne);8.6;30.3;0.0;0.0;0.0;13.0;-
+13 - Marseille Marignane (Provence);8.6;28.4;0.0;0.0;0.0;37.9;218h00
+13 - Salon-de-Provence;4.7;30.1;0.0;0.0;0.0;50.1;-
+14 - Caen Carpiquet;3.2;29.6;0.0;0.0;0.0;76.5;136h00
+14 - Deauville Saint-Gatien;3.4;27.6;0.0;0.0;0.0;79.3;-
+15 - Aurillac;2.1;31.2;0.0;0.0;0.0;174.6;166h00
+16 - Cognac Châteaubernard;4.6;32.0;0.0;0.0;0.0;154.5;161h00
+17 - Chassiron (pointe);10.4;29.8;0.0;0.0;0.0;159.3;-
+17 - La Rochelle aérodrome;6.7;29.2;0.0;0.0;0.0;210.6;173h00
+18 - Avord;4.6;31.1;0.0;0.0;0.0;92.6;-
+18 - Bourges;5.5;31.9;0.0;0.0;0.0;84.4;172h00
+19 - Brive la Gaillarde la Roche;3.8;33.2;0.0;0.0;0.0;127.4;147h00
+19 - Brive la Gaillarde Souillac vallée Dordogne;3.6;32.3;0.0;0.0;0.0;163.5;-
+20 - Ajaccio Campo Dell Oro;12.5;30.0;0.0;0.0;0.0;76.5;221h00
+20 - Alistro Bravonne;13.6;31.3;0.0;0.0;0.0;11.8;-
+20 - Bastia Poretta;11.9;27.9;0.0;0.0;0.0;8.9;158h00
+20 - Calvi Ste Catherine;12.9;30.0;0.0;0.0;0.0;100.1;-
+20 - Cap Corse;0.0;0.0;0.0;0.0;0.0;0.0;-
+20 - Cap Pertusato;15.7;29.4;0.0;0.0;0.0;63.5;-
+20 - Figari Sud Corsica;7.9;30.8;0.0;0.0;0.0;51.6;-
+20 - L'Île-Rousse;14.9;28.6;0.0;0.0;0.0;46.9;-
+20 - Solenzara (base aérienne);14.8;31.0;0.0;0.0;0.0;9.0;-
+21 - Dijon Longvic;3.6;27.5;0.0;0.0;0.0;145.6;168h00
+22 - Lannion Servel;5.3;28.7;0.0;0.0;19.65;78.4;-
+22 - Ploumanac'h Perros Guirec;8.5;25.9;0.0;0.0;0.0;74.0;-
+22 - Saint-Brieuc Armor;6.1;29.1;0.0;0.0;0.0;58.2;153h00
+23 - Guéret St Laurent;-0.2;32.1;0.0;0.0;0.0;103.1;161h00
+24 - Bergerac Roumanier;2.8;32.7;0.0;0.0;0.0;132.3;169h00
+25 - Besançon Thise;4.4;28.6;0.0;0.0;0.0;185.1;141h00
+26 - Montélimar Ancône;6.1;30.6;0.0;0.0;0.0;128.2;168h00
+27 - Evreux Fauville;3.1;29.3;0.0;0.0;0.0;69.6;-
+28 - Chartres Champol;2.8;29.8;0.0;0.0;0.0;86.4;137h00
+28 - Chateaudun;2.5;29.4;0.0;0.0;0.0;94.4;157h00
+29 - Brest Guipavas;3.8;28.1;0.0;0.0;0.0;142.2;108h00
+29 - Brignogan;0.0;0.0;0.0;0.0;0.0;0.0;-
+29 - Ouessant;9.2;22.2;0.0;0.0;0.0;106.1;-
+29 - Ploudalmézeau;6.6;26.8;0.0;0.0;0.0;111.6;-
+29 - Quimper Pluguffan;6.3;26.5;0.0;0.0;0.0;191.4;118h00
+30 - Mont Aigoual;1.6;21.3;0.0;0.0;0.0;296.6;-
+30 - Nimes Courbessac;7.3;32.0;0.0;0.0;0.0;95.1;175h00
+30 - Nimes Garons;7.1;31.2;0.0;0.0;0.0;116.5;-
+31 - Muret Lherm;4.3;33.2;0.0;0.0;0.0;47.6;-
+31 - Toulouse  Blagnac;6.8;33.0;0.0;0.0;0.0;43.2;187h00
+32 - Auch Lamothe;5.3;34.2;0.0;0.0;0.0;73.9;184h00
+33 - Bordeaux Mérignac;7.9;33.2;0.0;0.0;0.0;187.6;174h00
+33 - Cap Ferret;10.6;33.3;0.0;0.0;0.0;191.7;-
+34 - Béziers Vias;7.0;29.0;0.0;0.0;0.0;17.4;-
+34 - Montpellier Frejorgues Mediterranee;8.0;27.6;0.0;0.0;0.0;35.3;174h00
+34 - Sète;10.9;27.5;0.0;0.0;0.0;11.0;-
+35 - Dinard Pleurtuit;6.2;28.6;0.0;0.0;0.0;100.9;148h00
+35 - Rennes Saint-Jacques;4.6;30.0;0.0;0.0;0.0;84.4;146h00
+36 - Châteauroux Deols;4.1;32.2;0.0;0.0;0.0;99.9;169h00
+37 - Tours St Symphorien;5.2;31.1;0.0;0.0;0.0;105.1;168h00
+38 - Grenoble Le Versoud;5.0;29.1;0.0;0.0;0.0;182.5;-
+38 - Grenoble St Geoirs;4.6;29.7;0.0;0.0;0.0;185.3;181h00
+39 - Dole Tavaux;3.3;29.0;0.0;0.0;0.0;100.8;170h00
+40 - Biscarosse Parentis;9.4;34.5;0.0;0.0;0.0;171.2;166h00
+40 - Dax Seyresse;7.5;34.6;0.0;0.0;0.0;170.9;176h00
+40 - Mont-De-Marsan (base aérienne);6.4;33.8;0.0;0.0;0.0;173.3;185h00
+41 - Blois Le Breuil;3.2;30.3;0.0;0.0;0.0;96.5;165h00
+41 - Romorantin Pruniers-en-Sologne;0.5;32.1;0.0;0.0;0.0;100.1;-
+42 - Saint Etienne Boutheon;1.5;32.4;0.0;0.0;0.0;76.5;174h00
+43 - Le Puy Loudes;0.3;28.7;0.0;0.0;0.0;58.8;163h00
+44 - Saint-Nazaire Montoir;4.4;29.4;0.0;0.0;0.0;172.5;-
+45 - Orleans Bricy;2.6;29.3;0.0;0.0;0.0;89.1;159h00
+46 - Gourdon;4.2;33.1;0.0;0.0;0.0;109.1;166h00
+47 - Agen La Garenne;6.2;32.9;0.0;0.0;0.0;104.2;169h00
+48 - Mende Brenoux;2.3;29.1;0.0;0.0;0.0;112.6;153h00
+49 - Angers Beaucouzé;5.0;30.5;0.0;0.0;0.0;121.0;160h00
+49 - Angers Chaumont-d'Anjou Marcé;2.8;30.3;0.0;0.0;0.0;116.5;-
+50 - Cherbourg Maupertus;5.6;24.3;0.0;0.0;0.0;171.5;119h00
+50 - La Hague (cap);8.0;24.0;0.0;0.0;0.0;114.1;-
+51 - Châlons en Champagne Vatry;0.1;27.7;0.0;0.0;0.0;114.6;-
+51 - Reims / Prunay;-1.2;26.5;0.0;0.0;0.0;105.6;136h00
+52 - Langres;1.6;29.2;0.0;0.0;0.0;188.9;159h00
+52 - Saint-Dizier Robinson;0.0;0.0;0.0;0.0;0.0;101.1;111h00
+53 - Laval Entrammes;5.7;29.6;0.0;0.0;0.0;129.1;143h00
+54 - Nancy Essey;0.5;27.6;0.0;0.0;0.0;133.3;144h00
+54 - Nancy Ochey;2.3;27.4;0.0;0.0;0.0;136.9;-
+56 - Belle Ile Le Talut;9.3;23.5;0.0;0.0;0.0;87.0;-
+56 - Ile de Groix - Beg Melen;9.5;26.1;0.0;0.0;0.0;89.0;-
+56 - Lorient Lann Bihoue;5.4;28.4;0.0;0.0;0.0;110.4;129h00
+57 - Metz-Nancy-Lorraine;0.8;28.0;0.0;0.0;0.0;111.8;137h00
+58 - Nevers Fourchambault;0.9;31.5;0.0;0.0;0.0;128.7;161h00
+59 - Dunkerque;6.2;26.8;0.0;0.0;0.0;137.5;-
+59 - Lille Lesquin;1.3;27.3;0.0;0.0;14.95;107.4;-
+60 - Beauvais Tillé;-0.9;27.4;0.0;0.0;0.0;53.0;136h00
+60 - Creil (base aérienne);0.0;0.0;0.0;0.0;0.0;0.0;-
+61 - Alençon Valframbert;2.8;28.5;0.0;0.0;0.0;124.2;115h00
+62 - Boulogne sur mer;5.4;25.5;0.0;0.0;0.0;194.1;-
+62 - Le Touquet / Côte d'Opale;1.8;26.7;0.0;0.0;0.0;184.3;116h00
+63 - Clermont Ferrand Aulnat;3.8;33.2;0.0;0.0;0.0;40.0;182h00
+64 - Biarritz Anglet;8.4;33.4;0.0;0.0;0.0;137.4;180h00
+64 - Pau Pont-Long-Uzein;7.2;33.7;0.0;0.0;0.0;106.7;180h00
+64 - Socoa;10.9;33.4;0.0;0.0;0.0;114.6;-
+65 - Tarbes Ossun;4.9;32.8;0.0;0.0;0.0;47.4;182h00
+66 - Cap Béar;11.8;28.3;0.0;0.0;0.0;24.5;-
+66 - Perpignan Rivesalte;8.4;30.6;0.0;0.0;19.5;15.4;186h00
+67 - Strasbourg Entzheim;2.1;31.0;0.0;0.0;16.55;75.5;134h00
+68 - Bâle Mulhouse;-0.1;30.3;0.0;0.0;0.0;66.3;-
+69 - Lyon Bron;4.7;30.6;0.0;0.0;0.0;150.0;179h00
+69 - Lyon St Exupéry;5.6;30.3;0.0;0.0;0.0;148.7;-
+70 - Luxeuil St Sauveur;-1.9;28.6;0.0;0.0;0.0;168.4;161h00
+71 - Macon Charnay;3.8;29.5;0.0;0.0;0.0;151.3;178h00
+71 - Saint Yan;0.8;30.2;0.0;0.0;0.0;118.6;-
+72 - Le Mans Arnage;3.0;30.1;0.0;0.0;0.0;97.7;148h00
+73 - Bourg-Saint-Maurice;3.5;28.0;0.0;0.0;0.0;109.4;-
+73 - Chambéry Aix les Bains;3.9;27.3;0.0;0.0;0.0;139.0;148h00
+74 - Annecy Meythet;3.9;27.5;0.0;0.0;0.0;204.6;-
+75 - Paris Montsouris;5.6;28.6;0.0;0.0;0.0;89.2;148h00
+76 - Dieppe;2.0;27.5;0.0;0.0;0.0;94.0;-
+76 - Le Havre Cap de la Hève;5.6;27.6;0.0;0.0;0.0;62.1;-
+76 - Le Havre-Octeville;3.8;28.3;0.0;0.0;0.0;81.3;-
+76 - Rouen Boos;1.4;28.3;0.0;0.0;0.0;76.2;138h00
+77 - Melun Villaroche;2.6;27.4;0.0;0.0;0.0;116.4;139h00
+78 - Toussus Le Noble;3.3;28.2;0.0;0.0;0.0;113.9;-
+78 - Trappes;3.3;28.5;0.0;0.0;0.0;84.1;144h00
+79 - Niort Souche;6.5;31.1;0.0;0.0;0.0;192.6;168h00
+80 - Abbeville;2.1;27.5;0.0;0.0;0.0;101.0;-
+80 - Albert Bray;2.1;27.3;0.0;0.0;0.0;77.1;-
+81 - Albi Le Sequestre;5.7;34.3;0.0;0.0;0.0;51.6;175h00
+82 - Montauban  Lamothe-Capdeville;6.0;34.2;0.0;0.0;0.0;80.5;182h00
+83 - Cap Cepet;0.0;0.0;0.0;0.0;0.0;0.0;-
+83 - Hyeres Le Palivestre;8.5;27.3;0.0;0.0;0.0;38.0;-
+83 - Le Luc Le Cannet;8.9;33.9;0.0;0.0;0.0;71.8;212h00
+84 - Avignon;5.4;31.0;0.0;0.0;0.0;59.6;-
+84 - Carpentras;6.0;31.2;0.0;0.0;0.0;65.6;-
+84 - Orange Caritat;6.5;31.8;0.0;0.0;0.0;87.4;-
+85 - L'Ile d'Yeu - Saint Sauveur;10.3;26.8;0.0;0.0;0.0;157.4;-
+85 - La Roche sur Yon Les Ajoncs;5.9;30.5;0.0;0.0;0.0;181.1;164h00
+86 - Poitiers Biard;4.3;32.2;0.0;0.0;0.0;126.7;162h00
+87 - Limoges Bellegarde;5.6;30.0;0.0;0.0;0.0;195.0;159h00
+89 - Auxerre / Perrigny;2.3;30.6;0.0;0.0;0.0;89.1;164h00
+90 - Dorans / Belfort;3.3;29.5;0.0;0.0;0.0;124.1;-
+91 - Paris Orly;4.8;28.7;0.0;0.0;0.0;90.1;147h00
+93 - Paris Le Bourget;3.1;28.2;0.0;0.0;0.0;71.1;-
+95 - Paris Roissy CDG;2.6;28.4;0.0;0.0;0.0;83.0;135h00
+95 - Pontoise Cormeilles Boissy-l'Aillerie;1.2;28.2;0.0;0.0;0.0;84.6;-
